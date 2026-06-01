@@ -1,0 +1,34 @@
+# Environment and secrets
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+*.crt
+*.csr
+*.secret
+*.token
+*.session
+
+# Local state and caches
+.DS_Store
+node_modules/
+dist/
+build/
+coverage/
+.cache/
+.idea/
+.vscode/
+
+# OS and editor backups
+*~
+*.swp
+*.swo
+
+# Generated outputs
+tmp/
+out/
+logs/
+*.log

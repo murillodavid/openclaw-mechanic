@@ -1,0 +1,8 @@
+{
+  "host": "your-openclaw-host.example.com",
+  "port": 19089,
+  "baseUrl": "https://your-openclaw-host.example.com",
+  "gatewayToken": "replace_me",
+  "sshTarget": "your-user@your-openclaw-host.example.com",
+  "notes": "Replace every placeholder with values for your own deployment."
+}
